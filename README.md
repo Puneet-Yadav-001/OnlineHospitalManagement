@@ -22,7 +22,7 @@ This Online Hospital Management System is a Java-based application developed usi
 **Installation**
 
 1. Clone the repository to your local machine:
-   https://github.com/Puneet-Yadav-001/OnlineHospitalManagement
+   https://github.com/puneetyadav09/OnlineHospitalManagement
 
 2. Build and run the application.
 
