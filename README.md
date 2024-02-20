@@ -26,4 +26,5 @@ This Online Hospital Management System is a Java-based application developed usi
 
 2. Build and run the application.
 
-Developed by Puneet
+
+Developed by **Puneet**
